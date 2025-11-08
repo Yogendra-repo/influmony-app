@@ -1,0 +1,47 @@
+[
+  {
+    "key": "brief",
+    "label": "Brand brief",
+    "type": "string",
+    "required": true,
+    "inputTypes": [
+      "json"
+    ]
+  },
+  {
+    "key": "country",
+    "label": "Country",
+    "type": "string",
+    "required": false,
+    "inputTypes": [
+      "json"
+    ]
+  },
+  {
+    "key": "niche",
+    "label": "Niche",
+    "type": "string",
+    "required": false,
+    "inputTypes": [
+      "json"
+    ]
+  },
+  {
+    "key": "max_followers",
+    "label": "Max followers",
+    "type": "number",
+    "required": false,
+    "inputTypes": [
+      "json"
+    ]
+  },
+  {
+    "key": "top_k",
+    "label": "Top K results",
+    "type": "number",
+    "required": false,
+    "inputTypes": [
+      "json"
+    ]
+  }
+]

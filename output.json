@@ -1,0 +1,18 @@
+[
+  {
+    "key": "matches",
+    "label": "Top Influencers",
+    "types": [
+      "json",
+      "object"
+    ]
+  },
+  {
+    "key": "explanations",
+    "label": "Explanations",
+    "types": [
+      "json",
+      "object"
+    ]
+  }
+]

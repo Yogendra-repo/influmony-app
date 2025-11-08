@@ -1,0 +1,24 @@
+{
+  "users": {
+    "admin": {
+      "email": "admin@example.com",
+      "password_hash": "$2b$12$QVLx2ilNwSaXHg51PXTu5umgUXpqJO08rrgxxTsWDYVLH633ADbzC",
+      "created_at": 1762531971
+    },
+    "demo": {
+      "email": "demo@example.com",
+      "password_hash": "$2b$12$tcvPDDZBxjUd8CzFKSb8f.8y2oZNFyt8GmF5/OTkTeMRoyx3Y.IXW",
+      "created_at": 1762531971
+    },
+    "yogi": {
+      "email": "arepalliyogendranadh@gmail.com",
+      "password_hash": "$2b$12$W24MCati/tuiRVzR7Wn4WOeALmZXI9siKb/xpy/jx19hrQZnNxT/m",
+      "created_at": 1762532018
+    },
+    "abhi": {
+      "email": "abhi@gmail.com",
+      "password_hash": "$2b$12$i4ckTcVoP5ymhdFPWIAcIec/39bGxV9goq2.lFpwuG1vcmBOABp0e",
+      "created_at": 1762535318
+    }
+  }
+}

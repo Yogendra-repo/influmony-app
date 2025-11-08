@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn
+pydantic
+pandas
+numpy
+python-dotenv
+sentence-transformers
+scikit-learn
+streamlit
+requests
+streamlit-authenticator
+google-genai
+bcrypt
