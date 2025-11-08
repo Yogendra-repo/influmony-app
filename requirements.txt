@@ -1,14 +1,13 @@
-fastapi[standard]==0.115.0
-uvicorn==0.30.6
-pandas==2.2.2
-numpy==1.26.4
-python-dotenv==1.0.1
-scikit-learn==1.4.2
-sentence-transformers==2.6.1
-transformers==4.40.2
-
-# Force CPU-only PyTorch (no CUDA packages)
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
-torchaudio==2.2.2+cpu
+fastapi[standard]
+uvicorn
+pydantic
+pandas
+numpy
+python-dotenv
+sentence-transformers
+scikit-learn
+streamlit
+requests
+streamlit-authenticator
+google-genai
+bcrypt
